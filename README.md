@@ -1,3 +1,5 @@
+Иногда, чтобы случилась магия, достаточно просто включить VPN))
+https://movie-react-app-gamma.vercel.app/
 
 # Getting Started with Create React App
 
